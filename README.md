@@ -8,7 +8,7 @@
 
 ##### Publications (last updated: today)
 - Research on catalysts, photoelectrodes, and hydrogen production
-- [Read more on Google Scholar](https://scholar.google.com/citations?user=Y_M7TIMAAAAJ&hl=en)
+[Read more on Google Scholar](https://scholar.google.com/citations?user=Y_M7TIMAAAAJ&hl=en)
 
 
 ##### Repositories
