@@ -13,7 +13,7 @@
 
 ### Repositories Overview
 ##### 1) NEasy: Packages for easy and fast NEB calculations with a user-friendly interface for tasks [link](https://github.com/s-choung/NEasy)
-##### 2) Research_utility: Collection of Jupyter Notebooks for various research tasks and utilities[link](https://github.com/s-choung/Research_utility)
-##### 3) CER_repository_CCEL: Contains all scripts and main data for the manuscript "Atomic-level tuning of single-atom catalyst for selective electrocatalytic chlorine evolution reaction"[link](https://github.com/s-choung/CER_repository_CCEL)
-##### 4) Matlantis_benchmarking: Trial and error for finding out how good the potential is.[link](https://github.com/s-choung/Matlantis_benchmarking)
-##### 5) OZER: Code repository for two papers on electrochemical water oxidation selectivity and cleaner ozone production[link](https://github.com/s-choung/OZER)
+##### 2) Research_utility: Collection of Jupyter Notebooks for various research tasks and utilities [link](https://github.com/s-choung/Research_utility)
+##### 3) CER_repository_CCEL: Contains all scripts and main data for the manuscript "Atomic-level tuning of single-atom catalyst for selective electrocatalytic chlorine evolution reaction" [link](https://github.com/s-choung/CER_repository_CCEL)
+##### 4) Matlantis_benchmarking: Trial and error for finding out how good the potential is. [link](https://github.com/s-choung/Matlantis_benchmarking)
+##### 5) OZER: Code repository for two papers on electrochemical water oxidation selectivity and cleaner ozone production [link](https://github.com/s-choung/OZER)
