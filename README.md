@@ -12,12 +12,14 @@
 
 
 ### Repositories Overview
-##### - Research_utility
+##### 1) NEasy
+- Packages for easy and fast NEB calculations with a user-friendly interface for tasks
+##### 2) Research_utility
 - Collection of Jupyter Notebooks for various research tasks and utilities
-##### - CER_repository_CCEL
+##### 3) CER_repository_CCEL
 - Contains all scripts and main data for the manuscript "Atomic-level tuning of single-atom catalyst for selective electrocatalytic chlorine evolution reaction"
-##### - Matlantis_benchmarking
+##### 4) Matlantis_benchmarking
 - Trial and error for finding out how good the potential is
 - Open for contributions and support
-##### - OZER
+##### 5) OZER
 - Code repository for two papers on electrochemical water oxidation selectivity and cleaner ozone production
