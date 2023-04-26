@@ -6,8 +6,8 @@
 - Research focus: Effective catalyst design for climate change mitigation and clean production
 - Expertise in Ab initio calculations, Molecular Dynamics, and Machine Learning
 
-### Publications (last updated: today)
-- Research on catalysts, photoelectrodes, and hydrogen production
+### Publications 
+- Contributed to 7 research papers on catalysts, photoelectrodes, and hydrogen production
 [Read more on Google Scholar](https://scholar.google.com/citations?user=Y_M7TIMAAAAJ&hl=en)
 
 
