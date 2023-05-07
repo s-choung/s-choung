@@ -4,7 +4,7 @@
 ### CCEL
 - PhD student at Computational Catalysis and Emerging Materials Laboratory, POSTECH
 - Research focus: Effective catalyst design for climate change mitigation and clean production
-- Expertise in Ab initio calculations, Molecular Dynamics, and Machine Learning
+- Ab initio calculations, Molecular Dynamics, and Machine Learning
 
 ### Publications 
 - Contributed to 7 research papers on Electrocatalytic and thermocatalytic reactions [Read more on Google Scholar](https://scholar.google.com/citations?user=Y_M7TIMAAAAJ&hl=en)
