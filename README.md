@@ -1,5 +1,6 @@
-## Hi there! I'm Seokhyun Choung
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hello%20!%20I'm%20Seokhyun Choung%20&animation=fadeIn&fontColor=ffffff&fontSize=30" />
+    </div>
 
 ### CCEL
 - PhD student at Computational Catalysis and Emerging Materials Laboratory, POSTECH
