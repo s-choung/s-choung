@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&text=Hello%20!%20I%27m%20Seokhyun%20%F0%9F%92%BB&animation=fadeIn&fontColor=ffffff&fontSize=30&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&text=Hello%20!%20I%27m%20Seokhyun,Computational Catalysis%20%F0%9F%92%BB&animation=fadeIn&fontColor=ffffff&fontSize=30&fontAlignY=30)
 
 ### CCEL
 - PhD student at Computational Catalysis and Emerging Materials Laboratory, POSTECH
@@ -10,6 +10,7 @@
 
 
 ### Repositories Overview
+##### 0) FineTuneMLP_SA_Design: Code and datasets for Finetuning MLP for SA on oxide global optimization and efficient screening [link](https://github.com/s-choung/OC_Fine_Tuning_SA/)
 ##### 1) NEasy: Packages for easy and fast NEB calculations with a user-friendly interface for tasks [link](https://github.com/s-choung/NEasy)
 ##### 2) Research_utility: Collection of Jupyter Notebooks for various research tasks and utilities [link](https://github.com/s-choung/Research_utility)
 ##### 3) CER_repository_CCEL: Contains all scripts and main data for the manuscript "Atomic-level tuning of single-atom catalyst for selective electrocatalytic chlorine evolution reaction" [link](https://github.com/s-choung/CER_repository_CCEL)
