@@ -6,7 +6,7 @@
 - Ab initio calculations, Molecular Dynamics, and Machine Learning potential
 
 ### Publications 
-- Contributed to 11 research papers on Electrocatalytic and thermocatalytic reactions [Read more on Google Scholar](https://scholar.google.com/citations?user=Y_M7TIMAAAAJ&hl=en)
+- Contributed to 13 research papers on Electrocatalytic and thermocatalytic reactions [Read more on Google Scholar](https://scholar.google.com/citations?user=Y_M7TIMAAAAJ&hl=en)
 
 ### Repositories Overview
 ##### 1) FineTuneMLP_SA_Design: Code and datasets for Finetuning MLP for SA on oxide global optimization and efficient screening [link](https://github.com/s-choung/OC_Fine_Tuning_SA)
