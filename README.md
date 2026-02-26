@@ -7,6 +7,6 @@
 - Ab initio calculations, Molecular Dynamics, and Machine Learning potential
 
 ### Publications 
-- Contributed to 13 research papers on Electrocatalytic and thermocatalytic reactions [Read more on Google Scholar](https://scholar.google.com/citations?user=Y_M7TIMAAAAJ&hl=en)
+- Contributed to 21 research papers on Electrocatalytic and thermocatalytic reactions [Read more on Google Scholar](https://scholar.google.com/citations?user=Y_M7TIMAAAAJ&hl=en)
 
 
